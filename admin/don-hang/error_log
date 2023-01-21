@@ -1,0 +1,6 @@
+[12-Dec-2022 03:56:37 UTC] PHP Notice:  Undefined variable: image in /home/datpham/xshopteam.ml/admin/menu.php on line 11
+[12-Dec-2022 03:56:37 UTC] PHP Notice:  Undefined variable: user_name in /home/datpham/xshopteam.ml/admin/menu.php on line 14
+[14-Dec-2022 03:15:31 UTC] PHP Notice:  Undefined variable: image in /home/datpham/xshopteam.ml/admin/menu.php on line 11
+[14-Dec-2022 03:15:31 UTC] PHP Notice:  Undefined variable: user_name in /home/datpham/xshopteam.ml/admin/menu.php on line 14
+[14-Dec-2022 03:15:35 UTC] PHP Notice:  Undefined variable: image in /home/datpham/xshopteam.ml/admin/menu.php on line 11
+[14-Dec-2022 03:15:35 UTC] PHP Notice:  Undefined variable: user_name in /home/datpham/xshopteam.ml/admin/menu.php on line 14

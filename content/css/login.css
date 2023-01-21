@@ -1,0 +1,212 @@
+label#password-error {
+    color: red;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.error {
+    color: red;
+    font-size: 13px;
+    margin-top: 2px;
+    font-weight: 700;
+}
+
+div#wp-content {
+    background-color: rgb(344, 272, 267);
+}
+
+.breadcrumb {
+    padding: 10px;
+    background: #f5f5f5;
+    padding-left: 0px;
+}
+
+.layout-login-v2 {
+    margin-top: 143px;
+}
+
+span.form-message {
+    font-weight: 700;
+    font-size: 13px;
+    color: red;
+}
+
+div#evo-login {
+    padding: 16px;
+    padding-left: 0px;
+}
+
+.header {
+    left: -16px;
+    background-color: rgb(255, 255, 255);
+    width: 103%;
+    padding: 0px;
+    clear: both;
+    border-bottom: 2px solid rgb(213, 213, 213);
+    /* position: absolute; */
+    top: 83px;
+}
+
+.header .navbar {
+    margin-left: -20px;
+}
+
+div#wp-content {
+    background: #FFFFFF;
+}
+
+button.form-submit.btn.btn-warning.btn-block {
+    width: 100%;
+}
+
+a.breakcum {
+    text-decoration: none;
+}
+
+.breadcrumb-shop {
+    background: #f5f5f5;
+    height: 49px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.breadcrumb {
+    background: #f5f5f5;
+    padding-left: 0px;
+}
+
+.breakcum {
+    font-size: 13px;
+    color: #252a2b;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: #6c757d;
+    content: "";
+}
+
+span.direct {
+    padding: 3px 4px;
+    font-size: 12.5px;
+}
+
+input#email {
+    height: 55px;
+    padding: 0 15px;
+    outline: none;
+    box-shadow: none;
+    border-radius: 4px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    background: #ededed;
+    color: #333
+}
+
+input#password {
+    height: 55px;
+    padding: 0 15px;
+    outline: none;
+    box-shadow: none;
+    border-radius: 4px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    background: #ededed;
+    color: #333
+}
+
+.customer_login__title:after {
+    content: "";
+    background: #000;
+    display: block;
+    width: 60px;
+    height: 4px;
+    margin-top: 30px;
+}
+
+.wp-content {
+    margin-top: 50px;
+}
+
+.account_policy_content {
+    margin-top: -12px;
+}
+
+.customer_login__title {
+    margin-top: 50px;
+    font-size: 2.57143em;
+    position: relative;
+    padding-bottom: 45px;
+    font-weight: 700;
+    color: #27282c;
+}
+
+a.btn-link-style {
+    margin-top: 0;
+    color: #000000;
+    font-size: 13px;
+    font-weight: normal;
+}
+.test{
+    cursor: pointer;
+}
+
+/* button */
+
+button.btn.btn-warning.btn-block {
+    position: relative;
+    display: inline-block;
+    padding: 15px 28px;
+    line-height: normal;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000;
+    color: #fff;
+    border-radius: 4px px;
+    height: auto;
+}
+
+button.btn.btn-warning.btn-block:hover {
+    background: white;
+    color: black;
+}
+
+.btn-continue {
+    position: relative;
+    display: inline-block;
+    padding: 15px 28px;
+    line-height: normal;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000;
+    color: #fff;
+    border-radius: 4px;
+    height: auto;
+}
+
+div#evo-login {
+    padding: 16px;
+}
+
+.account__description {
+    padding: 16px;
+}
+
+span.form-message {
+    font-weight: 700;
+    font-size: 14px;
+    color: red;
+}
+
+form#form-2 {
+    margin-bottom: 50px;
+}

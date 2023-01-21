@@ -1,0 +1,5 @@
+[08-Dec-2022 20:06:07 UTC] PHP Notice:  Undefined variable: dm in /home/datpham/xshopteam.ml/site/san-pham/san-pham.php on line 11
+[08-Dec-2022 20:06:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/datpham/xshopteam.ml/site/san-pham/san-pham.php on line 11
+[08-Dec-2022 20:06:15 UTC] PHP Notice:  Undefined variable: dm in /home/datpham/xshopteam.ml/site/san-pham/san-pham.php on line 11
+[08-Dec-2022 20:06:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/datpham/xshopteam.ml/site/san-pham/san-pham.php on line 11
+[11-Dec-2022 17:45:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/datpham/xshopteam.ml/site/san-pham/san-pham.php on line 11

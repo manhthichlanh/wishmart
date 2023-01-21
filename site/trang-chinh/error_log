@@ -1,0 +1,65 @@
+[10-Dec-2022 19:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[10-Dec-2022 19:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function san_pham_trung_bay() in /home/datpham/xshopteam.ml/site/trang-chinh/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/index.php on line 9
+[13-Dec-2022 04:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/datpham/xshopteam.ml/site/trang-chinh/home.php:278
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/layout.php(217): require_once()
+#1 /home/datpham/xshopteam.ml/site/trang-chinh/index.php(13): require_once('/home/datpham/x...')
+#2 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/home.php on line 278
+[13-Dec-2022 04:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/datpham/xshopteam.ml/site/trang-chinh/home.php:278
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/layout.php(217): require_once()
+#1 /home/datpham/xshopteam.ml/site/trang-chinh/index.php(13): require_once('/home/datpham/x...')
+#2 {main}
+  thrown in /home/datpham/xshopteam.ml/site/trang-chinh/home.php on line 278
+[13-Dec-2022 04:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/datpham/xshopteam.ml/site/layout.php:374
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/trang-chinh/index.php(13): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 374

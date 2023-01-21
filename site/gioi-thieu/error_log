@@ -1,0 +1,95 @@
+[11-Dec-2022 17:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:17:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:24:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:27:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 17:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 18:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[11-Dec-2022 20:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[12-Dec-2022 03:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[12-Dec-2022 03:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:83
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 83
+[13-Dec-2022 05:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:84
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/gioi-thieu/index.php(9): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 84

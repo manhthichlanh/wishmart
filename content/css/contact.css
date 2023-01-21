@@ -1,0 +1,254 @@
+div#wp-content {
+    background: #ffffff;
+    padding: 35px 0 50px;
+    font-size: 14px;
+}
+
+span.order-summary-emphasis {
+    float: right;
+}
+
+img.img-responsive.center-block {
+    margin-bottom: 7px;
+    border-radius: 20px;
+    margin-top: -20px;
+}
+
+button.float-right.btn.btn-dark {
+    font-size: 15px;
+    padding: 10px;
+}
+
+span.payment-due-price {
+    float: right;
+}
+
+.form-control {
+    font-size: 13px !important;
+}
+
+
+/* title_cart */
+
+p.cart-empty {
+    font-size: 22px;
+}
+
+.heading-page {
+    padding-bottom: 30px;
+}
+
+button.form-submit.btn.btn-warning.btn-block {
+    width: 100%;
+}
+
+div#wp-content {
+    background-color: rgb(344, 272, 267);
+}
+
+.breadcrumb {
+    padding: 10px;
+    background: #f5f5f5;
+    padding-left: 0px;
+}
+
+.layout-login-v2 {
+    margin-top: 143px;
+    background: white;
+}
+
+div#evo-login {
+    padding: 16px;
+    padding-left: 0px;
+}
+
+.header {
+    left: -16px;
+    background-color: rgb(255, 255, 255);
+    width: 103%;
+    padding: 0px;
+    clear: both;
+    border-bottom: 2px solid rgb(213, 213, 213);
+    /* position: absolute; */
+    top: 83px;
+}
+
+.header .navbar {
+    margin-left: -20px;
+}
+
+.heading-page {
+    position: relative;
+}
+
+a.breakcum {
+    text-decoration: none;
+}
+
+.breadcrumb-shop {
+    background: #f5f5f5;
+    height: 49px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.breadcrumb {
+    background: #f5f5f5;
+    padding-left: 0px;
+}
+
+.breakcum {
+    font-size: 13px;
+    color: #252a2b;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: #6c757d;
+    content: "";
+}
+
+span.direct {
+    padding: 3px 4px;
+    font-size: 12.5px;
+}
+
+.customer_login__title:after {
+    content: "";
+    background: #000;
+    display: block;
+    width: 60px;
+    height: 4px;
+    margin-top: 30px;
+}
+
+.wp-content {
+    margin-top: 50px;
+}
+
+
+/* introduction */
+
+div#wp-content {
+    background-color: #ffffff;
+}
+
+.breadcrumb {
+    padding: 10px;
+    background: #f5f5f5;
+    padding-left: 0px;
+}
+
+.order-summary-sections {
+    position: relative;
+}
+
+.order-summary-sections {
+    position: relative;
+}
+
+img.img-responsive.center-block {
+    margin-bottom: 7px;
+    border-radius: 43px;
+    margin-top: -20px;
+}
+
+h1.title_head {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    border-bottom: solid 2px #eb3e32;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.4;
+}
+
+.introduct_content {
+    min-height: 400px;
+    margin-bottom: 40px;
+}
+
+iframe {
+    width: 100%;
+}
+
+.map_location {
+    margin-bottom: 15px;
+}
+
+.title_contact {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    padding-top: 15px;
+    border-bottom: solid 2px #eb3e32;
+    padding-bottom: 20px;
+    line-height: 1.4;
+}
+
+.item-contact {
+    padding: 10px;
+    border-radius: 5px;
+    background: #f7f7f7;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.item-contact .img {
+    color: #fff;
+    text-align: center;
+    background: #eb3e32;
+    line-height: 40px;
+    min-width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    margin-right: 11px;
+}
+
+label {
+    font-size: 15px;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.group_contact .form-group .form-control {
+    border-left: 2px solid #eb3e32;
+    border-radius: 0px !important;
+    font-size: 14px;
+    color: #323c42;
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+    height: 40px;
+    padding: 0px 15px;
+    background: #f7f7f7;
+}
+
+textarea#enquiry {
+    padding: 12px;
+    height: 100px;
+}
+
+.button-default {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background: #eb3e32;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    padding: 0 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.button-default:hover {
+    background: #ffb416;
+    color: #fff;
+}

@@ -1,0 +1,47 @@
+[09-Dec-2022 03:43:43 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/index.php on line 8
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: hinh in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 9
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: hinh in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 10
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: ten_sp in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 21
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: ten_sp in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 22
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 25
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: don_gia in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 31
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: don_gia in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 32
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 35
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 36
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: mo_ta in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 50
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: mo_ta in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 51
+[09-Dec-2022 03:43:43 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/index.php on line 8
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: hinh in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 9
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: hinh in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 10
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: ten_sp in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 21
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: ten_sp in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 22
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 25
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: don_gia in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 31
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: don_gia in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 32
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 35
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: so_luong in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 36
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: mo_ta in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 50
+[09-Dec-2022 03:43:43 UTC] PHP Notice:  Undefined variable: mo_ta in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 51
+[11-Dec-2022 10:51:25 UTC] PHP Notice:  Undefined variable: trung_bay_4 in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:51:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:52:20 UTC] PHP Notice:  Undefined variable: trung_bay_4 in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:52:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:54:38 UTC] PHP Notice:  Undefined variable: trung_bay_4 in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:54:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:54:41 UTC] PHP Notice:  Undefined variable: trung_bay_4 in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[11-Dec-2022 10:54:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/chi-tiet-san-pham.php on line 105
+[13-Dec-2022 06:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:84
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/index.php(19): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 84
+[13-Dec-2022 06:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:84
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/index.php(19): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 84
+[13-Dec-2022 06:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gio_hang_select_by_id_kh() in /home/datpham/xshopteam.ml/site/layout.php:84
+Stack trace:
+#0 /home/datpham/xshopteam.ml/site/chi-tiet-san-pham/index.php(19): require_once()
+#1 {main}
+  thrown in /home/datpham/xshopteam.ml/site/layout.php on line 84
